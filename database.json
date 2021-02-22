@@ -1,0 +1,27 @@
+{
+    "workout-plans": [
+        {
+            "id": 0,
+            "name": "Week 1",
+            "workouts": [
+                {
+                    "id": 1,
+                    "title": "Workout 1",
+                    "warmups": [
+                        {
+                            "id": 2,
+                            "title": "Plank",
+                            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus orci, nulla magnis vulputate volutpat semper purus. Aliquam viverra orci,",
+                            "time": 0.30,
+                            "sets": 0,
+                            "reps": 0,
+                            "maxWeight": 0,
+                            "completed": false,
+                            "images": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
