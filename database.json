@@ -1,15 +1,15 @@
 {
     "workout-plans": [
         {
-            "id": 0,
+            "id": "0d6910a3-aae6-6aba-bea6-37103faf799d",
             "name": "Week 1",
             "workouts": [
                 {
-                    "id": 1,
+                    "id": "2a1bbce0-98ba-3e90-dd47-e96dede4e6a2",
                     "title": "Workout 1",
                     "warmups": [
                         {
-                            "id": 2,
+                            "id": "9ccc13ab-48ea-cc1a-57ba-f2eddb72d0f7",
                             "title": "Plank",
                             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus orci, nulla magnis vulputate volutpat semper purus. Aliquam viverra orci,",
                             "time": 0.30,
@@ -17,7 +17,12 @@
                             "reps": 0,
                             "maxWeight": 0,
                             "completed": false,
-                            "images": []
+                            "images": [
+                                {
+                                    "id": "581e0418-976c-71ce-318d-534e9677fdbd",
+                                    "uri": "https://images.paulblackwell.io/gymify/man_plank.jpeg"
+                                }
+                            ]
                         }
                     ]
                 }
