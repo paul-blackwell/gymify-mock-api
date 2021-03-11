@@ -2,7 +2,7 @@
     "workout-plans": [
         {
             "id": "0d6910a3-aae6-6aba-bea6-37103faf799d",
-            "name": "Week 1",
+            "title": "Week 1",
             "workouts": [
                 {
                     "id": "2a1bbce0-98ba-3e90-dd47-e96dede4e6a2",
