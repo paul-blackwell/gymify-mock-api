@@ -9,6 +9,22 @@
                     "title": "Workout 1",
                     "warmups": [
                         {
+                            "id": "d23d9af5-bb24-2d14-0fd9-ecda331e2506",
+                            "title": "Run",
+                            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus orci, nulla magnis vulputate volutpat semper purus. Aliquam viverra orci,",
+                            "time": 10.00,
+                            "sets": 0,
+                            "reps": 0,
+                            "maxWeight": 0,
+                            "completed": false,
+                            "images": [
+                                {
+                                    "id": "827f7fbd-cc02-10dc-241c-1770748ecb20",
+                                    "uri": "https://images.paulblackwell.io/gymify/man_plank.jpeg"
+                                }
+                            ]
+                        },
+                        {
                             "id": "9ccc13ab-48ea-cc1a-57ba-f2eddb72d0f7",
                             "title": "Plank",
                             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus orci, nulla magnis vulputate volutpat semper purus. Aliquam viverra orci,",
@@ -20,6 +36,40 @@
                             "images": [
                                 {
                                     "id": "581e0418-976c-71ce-318d-534e9677fdbd",
+                                    "uri": "https://images.paulblackwell.io/gymify/man_plank.jpeg"
+                                }
+                            ]
+                        }
+                    ],
+                    "exercises" : [
+                        {
+                            "id": "9fa17950-1016-e376-12f1-36481f69a2e0",
+                            "title": "Push-Ups",
+                            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus orci, nulla magnis vulputate volutpat semper purus. Aliquam viverra orci,",
+                            "time": 0,
+                            "sets": 3,
+                            "reps": 12,
+                            "maxWeight": 20,
+                            "completed": false,
+                            "images": [
+                                {
+                                    "id": "07e38fad-d7fe-7648-58ff-905277d71b25",
+                                    "uri": "https://images.paulblackwell.io/gymify/man_plank.jpeg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "933eea3c-8ee5-f0aa-d2fd-6d7c32e6181d",
+                            "title": "Bench press",
+                            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus orci, nulla magnis vulputate volutpat semper purus. Aliquam viverra orci,",
+                            "time": 0,
+                            "sets": 3,
+                            "reps": 12,
+                            "maxWeight": 20,
+                            "completed": false,
+                            "images": [
+                                {
+                                    "id": "de8f5e9c-1599-a3f5-e0b5-14d7d170841d",
                                     "uri": "https://images.paulblackwell.io/gymify/man_plank.jpeg"
                                 }
                             ]
