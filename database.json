@@ -10,7 +10,7 @@
                     "warmups": [
                         {
                             "id": "d23d9af5-bb24-2d14-0fd9-ecda331e2506",
-                            "title": "Run",
+                            "title": "Running",
                             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus orci, nulla magnis vulputate volutpat semper purus. Aliquam viverra orci,",
                             "time": 10.00,
                             "sets": 0,
@@ -20,7 +20,25 @@
                             "images": [
                                 {
                                     "id": "827f7fbd-cc02-10dc-241c-1770748ecb20",
+                                    "origin": "api",
                                     "uri": "https://images.paulblackwell.io/gymify/man_plank.jpeg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "318ef038-c1cc-ce1d-a6b2-36c979076bfc",
+                            "title": "Jumping Jacks",
+                            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus orci, nulla magnis vulputate volutpat semper purus. Aliquam viverra orci,",
+                            "time": 3.00,
+                            "sets": 0,
+                            "reps": 0,
+                            "maxWeight": 0,
+                            "completed": false,
+                            "images": [
+                                {
+                                    "id": "1f8d2c87-bcc9-cfcf-8604-e38bda3c2139",
+                                    "origin": "api",
+                                    "uri": "https://images.paulblackwell.io/gymify/woman_jummping_jacks.jpeg"
                                 }
                             ]
                         },
@@ -36,7 +54,13 @@
                             "images": [
                                 {
                                     "id": "581e0418-976c-71ce-318d-534e9677fdbd",
+                                    "origin": "api",
                                     "uri": "https://images.paulblackwell.io/gymify/man_plank.jpeg"
+                                },
+                                {
+                                    "id": "bb4d0675-474c-e20c-365b-a9b3f232484a",
+                                    "origin": "api",
+                                    "uri": "https://images.paulblackwell.io/gymify/woman_plank.jpeg"
                                 }
                             ]
                         }
@@ -44,17 +68,23 @@
                     "exercises" : [
                         {
                             "id": "9fa17950-1016-e376-12f1-36481f69a2e0",
-                            "title": "Push-Ups",
+                            "title": "Pushups",
                             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus orci, nulla magnis vulputate volutpat semper purus. Aliquam viverra orci,",
                             "time": 0,
                             "sets": 3,
                             "reps": 12,
-                            "maxWeight": 20,
+                            "maxWeight": 0,
                             "completed": false,
                             "images": [
                                 {
                                     "id": "07e38fad-d7fe-7648-58ff-905277d71b25",
-                                    "uri": "https://images.paulblackwell.io/gymify/man_plank.jpeg"
+                                    "origin": "api",
+                                    "uri": "https://images.paulblackwell.io/gymify/man_pushup.jpeg"
+                                },
+                                {
+                                    "id": "000c66cb-a06b-1cf5-cba5-90a34d98bfc0",
+                                    "origin": "api",
+                                    "uri": "https://images.paulblackwell.io/gymify/man_pushup2.jpeg"
                                 }
                             ]
                         },
@@ -70,7 +100,35 @@
                             "images": [
                                 {
                                     "id": "de8f5e9c-1599-a3f5-e0b5-14d7d170841d",
+                                    "origin": "api",
                                     "uri": "https://images.paulblackwell.io/gymify/man_plank.jpeg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "ce4a8d0e-caed-cc89-4c65-b6801b2b3f15",
+                            "title": "Incline dumbbell bench press",
+                            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus orci, nulla magnis vulputate volutpat semper purus. Aliquam viverra orci,",
+                            "time": 0,
+                            "sets": 3,
+                            "reps": 12,
+                            "maxWeight": 25,
+                            "completed": false,
+                            "images": [
+                                {
+                                    "id": "15b1e1b8-392b-3572-c540-55d32208bb28",
+                                    "origin": "api",
+                                    "uri": "https://images.paulblackwell.io/gymify/woman_incline-dumbbell-bench_press.jpeg"
+                                },
+                                {
+                                    "id": "f1d3fa1c-1205-5149-56d8-e4aa37245a49",
+                                    "origin": "api",
+                                    "uri": "https://images.paulblackwell.io/gymify/woman_incline-dumbbell-bench_press2.jpeg"
+                                },
+                                {
+                                    "id": "652cf4c4-9ae4-0e05-d0fc-8aa249c03b52",
+                                    "origin": "api",
+                                    "uri": "https://images.paulblackwell.io/gymify/woman_incline-dumbbell-bench_press3.jpeg"
                                 }
                             ]
                         }
